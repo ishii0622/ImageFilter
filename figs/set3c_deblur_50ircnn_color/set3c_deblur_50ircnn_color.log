@@ -1,0 +1,90 @@
+21-06-10 13:57:19.114 : model_name:ircnn_color, image sigma:0.196, model sigma:0.196
+21-06-10 13:57:19.115 : Model path: model_zoo\ircnn_color.pth
+21-06-10 13:57:19.116 : testsets\set3c
+21-06-10 13:57:19.117 : -------k: 0 ---------
+21-06-10 14:02:39.690 : model_name:ircnn_color, image sigma:0.192, model sigma:0.192
+21-06-10 14:02:39.690 : Model path: model_zoo\ircnn_color.pth
+21-06-10 14:02:39.691 : testsets\set3c
+21-06-10 14:02:39.692 : -------k: 0 ---------
+21-06-10 14:02:44.066 : ---1--> butterfly.png --k: 0 PSNR: 20.61dB
+21-06-10 14:02:48.377 : ---2--> leaves.png --k: 0 PSNR: 19.54dB
+21-06-10 14:02:52.806 : ---3--> starfish.png --k: 0 PSNR: 22.36dB
+21-06-10 14:02:52.807 : ------> Average PSNR of (set3c), kernel: (0) sigma: (0.19): 20.84 dB
+21-06-10 14:02:52.807 : -------k: 1 ---------
+21-06-10 14:02:57.906 : ---1--> butterfly.png --k: 1 PSNR: 19.59dB
+21-06-10 14:03:03.343 : ---2--> leaves.png --k: 1 PSNR: 18.82dB
+21-06-10 14:03:08.635 : ---3--> starfish.png --k: 1 PSNR: 22.20dB
+21-06-10 14:03:08.635 : ------> Average PSNR of (set3c), kernel: (1) sigma: (0.19): 20.20 dB
+21-06-10 14:03:08.635 : -------k: 2 ---------
+21-06-10 14:03:13.826 : ---1--> butterfly.png --k: 2 PSNR: 22.08dB
+21-06-10 14:03:18.945 : ---2--> leaves.png --k: 2 PSNR: 21.00dB
+21-06-10 14:03:24.210 : ---3--> starfish.png --k: 2 PSNR: 23.16dB
+21-06-10 14:03:24.210 : ------> Average PSNR of (set3c), kernel: (2) sigma: (0.19): 22.08 dB
+21-06-10 14:03:24.210 : -------k: 3 ---------
+21-06-10 14:03:29.411 : ---1--> butterfly.png --k: 3 PSNR: 19.53dB
+21-06-10 14:03:34.664 : ---2--> leaves.png --k: 3 PSNR: 18.63dB
+21-06-10 14:03:40.005 : ---3--> starfish.png --k: 3 PSNR: 21.75dB
+21-06-10 14:03:40.006 : ------> Average PSNR of (set3c), kernel: (3) sigma: (0.19): 19.97 dB
+21-06-10 14:03:40.007 : -------k: 4 ---------
+21-06-10 14:03:45.225 : ---1--> butterfly.png --k: 4 PSNR: 23.54dB
+21-06-10 14:03:50.550 : ---2--> leaves.png --k: 4 PSNR: 22.65dB
+21-06-10 14:03:55.835 : ---3--> starfish.png --k: 4 PSNR: 23.94dB
+21-06-10 14:03:55.835 : ------> Average PSNR of (set3c), kernel: (4) sigma: (0.19): 23.38 dB
+21-06-10 14:03:55.836 : -------k: 5 ---------
+21-06-10 14:04:01.276 : ---1--> butterfly.png --k: 5 PSNR: 22.49dB
+21-06-10 14:04:06.805 : ---2--> leaves.png --k: 5 PSNR: 21.47dB
+21-06-10 14:04:12.435 : ---3--> starfish.png --k: 5 PSNR: 23.07dB
+21-06-10 14:04:12.435 : ------> Average PSNR of (set3c), kernel: (5) sigma: (0.19): 22.34 dB
+21-06-10 14:04:12.436 : -------k: 6 ---------
+21-06-10 14:04:17.990 : ---1--> butterfly.png --k: 6 PSNR: 21.72dB
+21-06-10 14:04:23.598 : ---2--> leaves.png --k: 6 PSNR: 20.45dB
+21-06-10 14:04:29.327 : ---3--> starfish.png --k: 6 PSNR: 22.55dB
+21-06-10 14:04:29.327 : ------> Average PSNR of (set3c), kernel: (6) sigma: (0.19): 21.57 dB
+21-06-10 14:04:29.327 : -------k: 7 ---------
+21-06-10 14:04:34.827 : ---1--> butterfly.png --k: 7 PSNR: 20.21dB
+21-06-10 14:04:40.452 : ---2--> leaves.png --k: 7 PSNR: 18.69dB
+21-06-10 14:04:47.406 : ---3--> starfish.png --k: 7 PSNR: 21.83dB
+21-06-10 14:04:47.406 : ------> Average PSNR of (set3c), kernel: (7) sigma: (0.19): 20.24 dB
+21-06-15 10:24:41.465 : model_name:ircnn_color, image sigma:0.192, model sigma:0.192
+21-06-15 10:24:41.480 : Model path: model_zoo\ircnn_color.pth
+21-06-15 10:24:41.480 : testsets\set3c
+21-06-15 10:24:41.480 : -------k: 0 ---------
+21-06-15 10:24:45.228 : ---1--> butterfly.png --k: 0 PSNR: 20.61dB
+21-06-15 10:24:48.877 : ---2--> leaves.png --k: 0 PSNR: 19.54dB
+21-06-15 10:24:52.666 : ---3--> starfish.png --k: 0 PSNR: 22.36dB
+21-06-15 10:24:52.666 : ------> Average PSNR of (set3c), kernel: (0) sigma: (0.19): 20.84 dB
+21-06-15 10:24:52.666 : -------k: 1 ---------
+21-06-15 10:24:56.418 : ---1--> butterfly.png --k: 1 PSNR: 19.59dB
+21-06-15 10:25:00.280 : ---2--> leaves.png --k: 1 PSNR: 18.82dB
+21-06-15 10:25:04.169 : ---3--> starfish.png --k: 1 PSNR: 22.20dB
+21-06-15 10:25:04.169 : ------> Average PSNR of (set3c), kernel: (1) sigma: (0.19): 20.20 dB
+21-06-15 10:25:04.169 : -------k: 2 ---------
+21-06-15 10:25:08.190 : ---1--> butterfly.png --k: 2 PSNR: 22.08dB
+21-06-15 10:25:12.960 : ---2--> leaves.png --k: 2 PSNR: 21.00dB
+21-06-15 10:25:17.405 : ---3--> starfish.png --k: 2 PSNR: 23.16dB
+21-06-15 10:25:17.406 : ------> Average PSNR of (set3c), kernel: (2) sigma: (0.19): 22.08 dB
+21-06-15 10:25:17.406 : -------k: 3 ---------
+21-06-15 10:25:22.444 : ---1--> butterfly.png --k: 3 PSNR: 19.53dB
+21-06-15 10:25:27.160 : ---2--> leaves.png --k: 3 PSNR: 18.63dB
+21-06-15 10:25:31.824 : ---3--> starfish.png --k: 3 PSNR: 21.75dB
+21-06-15 10:25:31.825 : ------> Average PSNR of (set3c), kernel: (3) sigma: (0.19): 19.97 dB
+21-06-15 10:25:31.825 : -------k: 4 ---------
+21-06-15 10:25:35.967 : ---1--> butterfly.png --k: 4 PSNR: 23.54dB
+21-06-15 10:25:40.157 : ---2--> leaves.png --k: 4 PSNR: 22.65dB
+21-06-15 10:25:44.522 : ---3--> starfish.png --k: 4 PSNR: 23.94dB
+21-06-15 10:25:44.522 : ------> Average PSNR of (set3c), kernel: (4) sigma: (0.19): 23.38 dB
+21-06-15 10:25:44.522 : -------k: 5 ---------
+21-06-15 10:25:48.804 : ---1--> butterfly.png --k: 5 PSNR: 22.49dB
+21-06-15 10:25:54.468 : ---2--> leaves.png --k: 5 PSNR: 21.47dB
+21-06-15 10:25:59.649 : ---3--> starfish.png --k: 5 PSNR: 23.07dB
+21-06-15 10:25:59.649 : ------> Average PSNR of (set3c), kernel: (5) sigma: (0.19): 22.34 dB
+21-06-15 10:25:59.650 : -------k: 6 ---------
+21-06-15 10:26:04.775 : ---1--> butterfly.png --k: 6 PSNR: 21.72dB
+21-06-15 10:26:09.864 : ---2--> leaves.png --k: 6 PSNR: 20.45dB
+21-06-15 10:26:15.732 : ---3--> starfish.png --k: 6 PSNR: 22.55dB
+21-06-15 10:26:15.733 : ------> Average PSNR of (set3c), kernel: (6) sigma: (0.19): 21.57 dB
+21-06-15 10:26:15.733 : -------k: 7 ---------
+21-06-15 10:26:21.765 : ---1--> butterfly.png --k: 7 PSNR: 20.21dB
+21-06-15 10:26:27.597 : ---2--> leaves.png --k: 7 PSNR: 18.69dB
+21-06-15 10:26:34.152 : ---3--> starfish.png --k: 7 PSNR: 21.83dB
+21-06-15 10:26:34.152 : ------> Average PSNR of (set3c), kernel: (7) sigma: (0.19): 20.24 dB
