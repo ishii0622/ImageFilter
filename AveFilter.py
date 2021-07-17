@@ -7,7 +7,7 @@ color = cv2.imread("./figs/butterfly.png")
 
 # Spatial filtering
 # (OpenCVで実装)
-dst = cv2.blur(color, ksize=(3, 3))
+dst = cv2.blur(color, ksize=(5, 5))
 
 # output
 # 結果を出力
